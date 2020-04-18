@@ -1,0 +1,7 @@
+These are some useful resources where you can understand smart pointers, you will need to practice using them as well:
+
+Easy: https://en.cppreference.com/book/intro/smart_pointers
+
+Moderate: https://www.geeksforgeeks.org/smart-pointers-cpp/
+
+In Depth: https://www.learncpp.com/cpp-tutorial/15-1-intro-to-smart-pointers-move-semantics/
