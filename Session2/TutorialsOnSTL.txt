@@ -1,0 +1,5 @@
+These are some useful resources to read about STL and containers like vectors and deques:
+
+Very good comprehensive post: https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
+Vectors: https://www.geeksforgeeks.org/vector-in-cpp-stl/
+Deques: https://www.geeksforgeeks.org/deque-cpp-stl/?ref=rp
