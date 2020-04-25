@@ -1,0 +1,3 @@
+This project is a training project for designing management systems in cpp, we will building this project over a series of sessions in our C++ webinars series, the system resembles a vending machine but more of a vending store to allow the automation of buying groceries using an subscribtion to the system (free or paid) and recieving the products from a drive-thru.
+
+currently, by session 4, we have designed the program and defined the initial classes needed, we have implemented some of them as well, the video recording, if present will be uploaded to this folder in this repo.
