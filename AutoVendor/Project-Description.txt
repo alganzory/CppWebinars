@@ -8,6 +8,7 @@ We started this series in Session 4 and here are the list of updates.
   
 * Session 5: 3/5/2020
   - We go over Polymorphism and examples of how it may be used, especially in our program
+  - We roughly plan the login verification routine. 
   - We also cover a brief introduction of the map class from STL library and how it can be used in our program.
   - Link: https://drive.google.com/file/d/1RWylynUW8Y7TxcyC-wx_BhFnzyeHnUfj/view?usp=sharing
   - Useful resources: https://www.geeksforgeeks.org/polymorphism-in-c/
