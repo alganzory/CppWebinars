@@ -1,5 +1,15 @@
 This project is a training project for designing management systems in cpp, we will building this project over a series of sessions in our C++ webinars series, the system resembles a vending machine but more of a vending store to allow the automation of buying groceries using an subscribtion to the system (free or paid) and recieving the products from a drive-thru.
 
-currently, by session 4, we have designed the program and defined the initial classes needed, we have implemented some of them as well, the video recording, if present will be uploaded to this folder in this repo.
+We started this series in Session 4 and here are the list of updates.
 
-* Session 4 recorded link: https://drive.google.com/open?id=1kAM0OzhB_u1siYNB6qpFrRv5OhAu5cjb
+* Session 4:
+  - We discuss designing the program, plan a rough UML diagram and define some of the classes.
+  - Link: https://drive.google.com/open?id=1kAM0OzhB_u1siYNB6qpFrRv5OhAu5cjb
+  
+* Session 5:
+  - We go over Polymorphism and examples of how it may be used, especially in our program
+  - We also cover a brief introduction of the map class from STL library and how it can be used in our program.
+  - Link: https://drive.google.com/file/d/1RWylynUW8Y7TxcyC-wx_BhFnzyeHnUfj/view?usp=sharing
+  - Useful resources: https://www.geeksforgeeks.org/polymorphism-in-c/
+                      https://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/?ref=rp
+                      
