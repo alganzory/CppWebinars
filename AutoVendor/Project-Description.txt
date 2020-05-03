@@ -6,10 +6,10 @@ We started this series in Session 4 and here are the list of updates.
   - We discuss designing the program, plan a rough UML diagram and define some of the classes.
   - Link: https://drive.google.com/open?id=1kAM0OzhB_u1siYNB6qpFrRv5OhAu5cjb
   
-* Session 5:
+* Session 5: 3/5/2020
   - We go over Polymorphism and examples of how it may be used, especially in our program
   - We also cover a brief introduction of the map class from STL library and how it can be used in our program.
   - Link: https://drive.google.com/file/d/1RWylynUW8Y7TxcyC-wx_BhFnzyeHnUfj/view?usp=sharing
   - Useful resources: https://www.geeksforgeeks.org/polymorphism-in-c/
                       https://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/?ref=rp
-                      
+                      https://www.studytonight.com/cpp/stl/stl-container-map
