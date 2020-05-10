@@ -14,3 +14,8 @@ We started this series in Session 4 and here are the list of updates.
   - Useful resources: https://www.geeksforgeeks.org/polymorphism-in-c/
                       https://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/?ref=rp
                       https://www.studytonight.com/cpp/stl/stl-container-map
+
+* Session 6: 11/5/2020
+ - We go over completing some of the classes that we innitially planned
+ - We go over some STL goodies like pair and vector push back and erase
+ - Link: https://drive.google.com/file/d/1RyKEsuWn6ChmLiwC0bU7lZ41tXxXYVQo/view?usp=sharing
